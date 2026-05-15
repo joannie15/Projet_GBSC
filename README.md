@@ -1,4 +1,4 @@
-# Projet_GBSC
+# Projet "où-vit-on le mieux en france?"
 
 Projet d’analyse comparative des départements français pour identifier les territoires offrant les meilleures conditions de vie, à partir de facteurs socio-économiques et culturels.
 
